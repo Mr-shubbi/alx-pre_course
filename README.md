@@ -1,2 +1,3 @@
 # MY First README file
-Await userguide 
+Awaiting  userguide 
+*insert app manual*
